@@ -1,0 +1,12 @@
+# Binaires
+philo
+philo_tsan
+philo_asan
+
+# Objets et symboles
+*.o
+*.a
+*.dSYM/
+
+# Systeme
+.DS_Store
